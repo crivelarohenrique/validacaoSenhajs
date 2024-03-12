@@ -41,7 +41,7 @@ A senha deve conter pelo menos um caractere especial.
 
 Validar a senha de um usuário durante o cadastro.  
 Validar a senha de um usuário ao fazer login.  
-Validar a senha de um usuário ao alterar sua senha  
+Validar a senha de um usuário ao alterar sua senha.
 
 ## 🛠️Tecnologia Utilizadas
 <div style="display: inline-block"><br>
