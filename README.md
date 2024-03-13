@@ -1,4 +1,4 @@
-# Validador de Senha
+# Validação de senha com Express e JavaScript
 
 ## Descrição
 
